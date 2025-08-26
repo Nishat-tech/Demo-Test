@@ -6,16 +6,15 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        <h1>🚀 Welcome to Big Bear Vans</h1>
+        <p>This page is deployed on <b>AWS Amplify</b>!</p>
         <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn Github with AWS Amplify
         </a>
       </header>
     </div>
