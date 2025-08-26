@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h1>🚀 Welcome to Big Bear Vans</h1>
         <p>This page is deployed on <b>AWS Amplify</b>!</p>
-        <P>how to integrate Github with AWS?</P>
+        <p>how to integrate Github with AWS?</p>
         <a
           className="App-link"
           href="https://reactjs.org"
